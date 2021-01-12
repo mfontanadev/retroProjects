@@ -11,9 +11,11 @@ You have to memorize a sequence of numbers and repeat it when it's your turn. Yo
 
 ## Enjoy at
 
-Remember read Installation section.
+Remember read Installation section (below in this same document)
 
-https://mfontanadev.itch.io/micro-spy
+* From itchio: https://mfontanadev.itch.io/micro-spy
+
+* From git ("release" folder): https://github.com/mfontanadev/retroProjects/raw/main/TELEFONO/release/TELEFONO.7z
 
 
 
