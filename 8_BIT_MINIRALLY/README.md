@@ -73,7 +73,7 @@ src="https://github.com/mfontanadev/retroProjects/raw/main/8_BIT_MINIRALLY/doc/g
     </tr>
     <tr>
         <th align="center">
-            8_BIT_MINIRALLY behind de scene, levels and levels (TIC-80)
+            8_BIT_MINIRALLY behind thes scene, levels and levels (TIC-80)
         </th>
     </tr>
 </table>
@@ -125,7 +125,7 @@ Source code is part of the cart and it is on Git https://github.com/mfontanadev/
 
 This software is distributed under the Apache License, version 2.0.
 
-Copyright (c) 2017 Bruno Oliveira
+Copyright (c) 2024 Mauricio Fontana
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -139,7 +139,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-## Contact
+## Contactss
 
 * site: [https://mfontanadev.github.io](https://mfontanadev.github.io)
 
@@ -147,4 +147,4 @@ limitations under the License.
 
 * git: [https://github.com/mfontanadev](https://github.com/mfontanadev)
 
-* linkedin: [https://www.linkedin.com/in/mauricio-fontana-8285681b/?originalSubdomain=ar](https://www.linkedin.com/in/mauricio-fontana-8285681b/?originalSubdomain=ar)s
+* linkedin: [https://www.linkedin.com/in/mauricio-fontana/](https://www.linkedin.com/in/mauricio-fontana/)
