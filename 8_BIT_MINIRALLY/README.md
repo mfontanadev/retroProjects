@@ -4,16 +4,18 @@ This time I ported my QuickBasic 4.5 game called Minirally to TIC-80 , just for:
 
 **Game description**
 
-Drive a car, make a beeter planet collecting radioactive trash and stop to convert into energy. Have fun along 8 levels, that required much effort to design.
+Drive a car, make a better planet collecting radioactive trash and stop to convert into energy. Have fun along 8 levels, that required much effort to design.
 
 ## Enjoy at
 
 Remember read Installation section (below in this same document)
 
-- From TIC-80: [Play 8 BIT PANDA / TIC-80/8_bit_minirally](https://tic80.com/play?cart=???)
-* From itchio: https://mfontanadev.itch.io/8_bit_minirally
+- From TIC-80, play online: [Play 8 BIT PANDA / TIC-80/8_bit_minirally](https://tic80.com/play?cart=???)
+* From itchio, play online: https://mfontanadev.itch.io/8_bit_minirally
 
-* From git ("release" folder): https://github.com/mfontanadev/retroProjects/raw/main/8_BIT_MINIRALLY/release/index.html
+* From git (play offline from .zip file, see Installation section below in this document): https://github.com/mfontanadev/retroProjects/raw/main/8_BIT_MINIRALLY/release
+  
+  
 
 ## Motivation
 
@@ -107,11 +109,21 @@ src="https://github.com/mfontanadev/retroProjects/raw/main/MINIRALLY/doc/real_to
 
 ## Installation
 
-0-It does not require installation but.
+This game does not require installartion but you can download .tic file and play locally.
 
-1-If you want to get a stand alone binary, basically must download TIC-80 then download the .tic file to export as: html, .exe, and so on.
+Another thing that you can do is run TIC-80 console and upload the game and modify it.
 
-2-Example: export html 8_bit_minirally will throw a .zip file with index.html inside.
+<b>Windows, play the game locally</b>
+
+1-Download .zip file and uncompress to some localfolder.
+
+2-Run the file "play.bat" (this will execute tic80.exe and automatically load 8_bit_minirally.tic)
+
+NOTE: .local folder must be used to make fullscreen parameter works.
+
+OPTIONAL 3-If you want to change the game code or something, after step 2 press ESC andthen F1. (I suggest read a little about TIC-80, just to get more fun)
+
+
 
 ## Build a new version / Sources / Code explanation
 
@@ -139,7 +151,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-## Contactss
+## Contacts
 
 * site: [https://mfontanadev.github.io](https://mfontanadev.github.io)
 
