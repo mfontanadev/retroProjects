@@ -1,6 +1,6 @@
 # Game"8 Bit Minirally"
 
-This time I ported my QuickBasic 4.5 game called Minirally to TIC-80 , just for: fun, leard lua and enjoy TIC-80 console.
+This time I ported my QuickBasic 4.5 game called Minirally to TIC-80 , just for: fun, learn lua and enjoy TIC-80 console.
 
 **Game description**
 
