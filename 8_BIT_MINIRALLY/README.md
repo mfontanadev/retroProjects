@@ -1,4 +1,4 @@
-# Game"MINIRALLY"
+# Game"8 Bit Minirally"
 
 This time I ported my QuickBasic 4.5 game called Minirally to TIC-80 , just for: fun, leard lua and enjoy TIC-80 console.
 
@@ -10,12 +10,10 @@ Drive a car, make a better planet collecting radioactive trash and stop to conve
 
 Remember read Installation section (below in this same document)
 
-- From TIC-80, play online: [Play 8 BIT PANDA / TIC-80/8_bit_minirally](https://tic80.com/play?cart=???)
+- From TIC-80, play online: [Play 8 BIT MINIRALLY / TIC-80/8_bit_minirally]([Play MINIRALLY / TIC-80](https://tic80.com/play?cart=3776))
 * From itchio, play online: https://mfontanadev.itch.io/8_bit_minirally
 
 * From git (play offline from .zip file, see Installation section below in this document): https://github.com/mfontanadev/retroProjects/raw/main/8_BIT_MINIRALLY/release
-  
-  
 
 ## Motivation
 
@@ -122,8 +120,6 @@ Another thing that you can do is run TIC-80 console and upload the game and modi
 NOTE: .local folder must be used to make fullscreen parameter works.
 
 OPTIONAL 3-If you want to change the game code or something, after step 2 press ESC andthen F1. (I suggest read a little about TIC-80, just to get more fun)
-
-
 
 ## Build a new version / Sources / Code explanation
 
