@@ -56,15 +56,15 @@ src="https://github.com/mfontanadev/retroProjects/raw/main/MINIRALLY/doc/real_to
 
 0-It works on Windows, Linux (not compatible), Mac (not compatible).
 
-1-Inside MINIRALLY.zip you will find two folders (you can choose any): 
+1-MINIRALLY cames in two flavours, emulated and win10+ compatibility.
 
-A) Folder ending with -EMUL, this version uses a DOS emulator. In this case execute the file called "play_minimized.bat".
+A) Zip file ending with -EMUL uses a DOS emulator. In this case execute the file called "play_minimized.bat".
 
 NOTE: DOS emulation is done using DOSBox-0.72 it allows to switch into monochromatic screen resolution and execute the .exe old file.
 
-B) Folder ending with -WIN10, this version was compiled with QB64 and do not need emulation. In this case execute thr file called "play.bat".
+B) Zip file ending with -WIN10 was compiled using QB64 no need to emulate DOS. In this case execute thr file called "play.bat".
 
-
+NOTE: !!!!If antivirus says that there is a Trojan, is is false positive, there in no virus in the .exe file!!!
 
 ## Build a new version / Sources / Code explanation
 
