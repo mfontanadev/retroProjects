@@ -1,4 +1,3 @@
-
 # Game"MINIRALLY"
 
 It is an imitation of the popular real game Mini rally, programed with QuickBasic 4.5, monochromatic displays (those times).
@@ -18,52 +17,52 @@ Remember read Installation section (below in this same document)
 ## Motivation
 
 - NOTE: English is not my first language and the game has not localization, but I made a document with some translation see "doc" folder inside the .zip.
+
 - The original motivations was learning about programming.
 
 - I tried to make a simulation of a real life toy called mini rally (90's)
-  
+
 - This remake motivation is to share with the humanity this that I made.
 
 <table>
-	<tr>
-		<th width="720px" align="center">
-		<img width="720px"
+    <tr>
+        <th width="720px" align="center">
+        <img width="720px"
 src="https://github.com/mfontanadev/retroProjects/raw/main/MINIRALLY/doc/game_screenshot.png">
-		</th>
-	</tr>
-	<tr>
-		<th align="center">
-			MINIRALLY screenshot
-		</th>
-	</tr>
+        </th>
+    </tr>
+    <tr>
+        <th align="center">
+            MINIRALLY screenshot
+        </th>
+    </tr>
 </table>
-
-
 
 <table>
-	<tr>
-		<th width="360px" align="center">
-		<img width="360px"
+    <tr>
+        <th width="360px" align="center">
+        <img width="360px"
 src="https://github.com/mfontanadev/retroProjects/raw/main/MINIRALLY/doc/real_toy_picture.jpg">
-		</th>
-	</tr>
-	<tr>
-		<th align="center">
-			Real toy
-		</th>
-	</tr>
+        </th>
+    </tr>
+    <tr>
+        <th align="center">
+            Real toy
+        </th>
+    </tr>
 </table>
-
-
-
 
 ## Installation
 
 0-It works on Windows, Linux (not compatible), Mac (not compatible).
 
-1-Unzip MINIRALLY file and run "play_minimized.bat" (this will fire DOSBox-0.72)
+1-Inside MINIRALLY.zip you will find two folders (you can choose any): 
 
-NOTE: this game use an emulator of DOS (an old operating system) called DOSBox-0.72 to switch into monochromatic screen resolution and to allow execute the .exe old file.
+A) Folder ending with -EMUL, this version uses a DOS emulator. In this case execute the file called "play_minimized.bat".
+
+NOTE: DOS emulation is done using DOSBox-0.72 it allows to switch into monochromatic screen resolution and execute the .exe old file.
+
+B) Folder ending with -WIN10, this version was compiled with QB64 and do not need emulation. In this case execute thr file called "play.bat".
 
 
 
@@ -71,13 +70,9 @@ NOTE: this game use an emulator of DOS (an old operating system) called DOSBox-0
 
 This time there in no source code (at least for the moment).
 
-
-
 ## References
 
 * DOSBox-0.72:  https://www.dosbox.com/download.php?main=1
-
-
 
 ## Contact
 
@@ -88,4 +83,3 @@ This time there in no source code (at least for the moment).
 * git: [https://github.com/mfontanadev](https://github.com/mfontanadev)
 
 * linkedin: [https://www.linkedin.com/in/mauricio-fontana-8285681b/?originalSubdomain=ar](https://www.linkedin.com/in/mauricio-fontana-8285681b/?originalSubdomain=ar)
-
